@@ -1,4 +1,4 @@
-C:\Users\danie\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/danie/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints -B C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints\cmake-build-debug
+C:\Users\danie\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints -B C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints\cmake-build-debug
 -- The C compiler identification is GNU 13.1.0
 -- The CXX compiler identification is GNU 13.1.0
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@ C:\Users\danie\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCM
 -- Check for working CXX compiler: C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/g++.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (1.1s)
--- Generating done (0.0s)
+-- Configuring done (5.2s)
+-- Generating done (0.1s)
 -- Build files have been written to: C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug

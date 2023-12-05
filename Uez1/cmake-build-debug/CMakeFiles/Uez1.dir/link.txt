@@ -1,0 +1,3 @@
+C:\Users\danie\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\Uez1.dir/objects.a
+C:\Users\danie\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\Uez1.dir/objects.a @CMakeFiles\Uez1.dir\objects1.rsp
+C:\Users\danie\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Uez1.dir/objects.a -Wl,--no-whole-archive -o Uez1.exe -Wl,--out-implib,libUez1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Uez1.dir\linkLibs.rsp
