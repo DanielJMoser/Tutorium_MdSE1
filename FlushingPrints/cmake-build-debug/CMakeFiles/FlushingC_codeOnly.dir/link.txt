@@ -1,0 +1,3 @@
+C:\Users\danie\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\FlushingC_codeOnly.dir/objects.a
+C:\Users\danie\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\FlushingC_codeOnly.dir/objects.a @CMakeFiles\FlushingC_codeOnly.dir\objects1.rsp
+C:\Users\danie\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\FlushingC_codeOnly.dir/objects.a -Wl,--no-whole-archive -o FlushingC_codeOnly.exe -Wl,--out-implib,libFlushingC_codeOnly.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FlushingC_codeOnly.dir\linkLibs.rsp

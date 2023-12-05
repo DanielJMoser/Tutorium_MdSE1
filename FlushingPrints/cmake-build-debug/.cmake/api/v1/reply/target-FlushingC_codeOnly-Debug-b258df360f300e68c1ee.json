@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "FlushingC.exe"
+			"path" : "FlushingC_codeOnly.exe"
 		},
 		{
-			"path" : "FlushingC.pdb"
+			"path" : "FlushingC_codeOnly.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 6,
+				"line" : 7,
 				"parent" : 0
 			}
 		]
@@ -44,12 +44,11 @@
 			"language" : "C",
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
-	"id" : "FlushingC::@6890427a1f51a3e7e1df",
+	"id" : "FlushingC_codeOnly::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +68,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "FlushingC",
-	"nameOnDisk" : "FlushingC.exe",
+	"name" : "FlushingC_codeOnly",
+	"nameOnDisk" : "FlushingC_codeOnly.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -82,19 +81,12 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
 	"sources" : 
 	[
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "FlushingC.c",
-			"sourceGroupIndex" : 0
-		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,

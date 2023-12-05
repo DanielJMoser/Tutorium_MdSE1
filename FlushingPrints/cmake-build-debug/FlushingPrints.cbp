@@ -61,6 +61,50 @@
 					<DistClean command="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="FlushingC_codeOnly">
+				<Option output="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/FlushingC_codeOnly.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/Makefile&quot;  VERBOSE=1 FlushingC_codeOnly"/>
+					<CompileFile command="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FlushingC_codeOnly/fast">
+				<Option output="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/FlushingC_codeOnly.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/Makefile&quot;  VERBOSE=1 FlushingC_codeOnly/fast"/>
+					<CompileFile command="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/danie/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="FlushingCPP">
 				<Option output="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug/FlushingCPP.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug"/>
@@ -133,7 +177,7 @@
 			<Option target="FlushingCPP"/>
 		</Unit>
 		<Unit filename="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/FlushingC_codeOnly.c">
-			<Option target="FlushingC"/>
+			<Option target="FlushingC_codeOnly"/>
 		</Unit>
 		<Unit filename="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

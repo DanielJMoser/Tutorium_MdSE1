@@ -1,4 +1,4 @@
 C:\Users\danie\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints -B C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints\cmake-build-debug
--- Configuring done (0.2s)
+-- Configuring done (0.1s)
 -- Generating done (0.1s)
 -- Build files have been written to: C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/cmake-build-debug

@@ -129,6 +129,19 @@ FlushingC/fast:
 .PHONY : FlushingC/fast
 
 #=============================================================================
+# Target rules for targets named FlushingC_codeOnly
+
+# Build rule for target.
+FlushingC_codeOnly: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 FlushingC_codeOnly
+.PHONY : FlushingC_codeOnly
+
+# fast build rule for target.
+FlushingC_codeOnly/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC_codeOnly.dir\build.make CMakeFiles/FlushingC_codeOnly.dir/build
+.PHONY : FlushingC_codeOnly/fast
+
+#=============================================================================
 # Target rules for targets named FlushingCPP
 
 # Build rule for target.
@@ -194,7 +207,7 @@ FlushingC_codeOnly.obj: FlushingC_codeOnly.c.obj
 
 # target to build an object file
 FlushingC_codeOnly.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC.dir\build.make CMakeFiles/FlushingC.dir/FlushingC_codeOnly.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC_codeOnly.dir\build.make CMakeFiles/FlushingC_codeOnly.dir/FlushingC_codeOnly.c.obj
 .PHONY : FlushingC_codeOnly.c.obj
 
 FlushingC_codeOnly.i: FlushingC_codeOnly.c.i
@@ -202,7 +215,7 @@ FlushingC_codeOnly.i: FlushingC_codeOnly.c.i
 
 # target to preprocess a source file
 FlushingC_codeOnly.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC.dir\build.make CMakeFiles/FlushingC.dir/FlushingC_codeOnly.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC_codeOnly.dir\build.make CMakeFiles/FlushingC_codeOnly.dir/FlushingC_codeOnly.c.i
 .PHONY : FlushingC_codeOnly.c.i
 
 FlushingC_codeOnly.s: FlushingC_codeOnly.c.s
@@ -210,7 +223,7 @@ FlushingC_codeOnly.s: FlushingC_codeOnly.c.s
 
 # target to generate assembly for a file
 FlushingC_codeOnly.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC.dir\build.make CMakeFiles/FlushingC.dir/FlushingC_codeOnly.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC_codeOnly.dir\build.make CMakeFiles/FlushingC_codeOnly.dir/FlushingC_codeOnly.c.s
 .PHONY : FlushingC_codeOnly.c.s
 
 # Help Target
@@ -223,6 +236,7 @@ help:
 	@echo ... rebuild_cache
 	@echo ... FlushingC
 	@echo ... FlushingCPP
+	@echo ... FlushingC_codeOnly
 	@echo ... FlushingC.obj
 	@echo ... FlushingC.i
 	@echo ... FlushingC.s
