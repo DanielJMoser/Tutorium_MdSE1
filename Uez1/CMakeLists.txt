@@ -7,3 +7,5 @@ add_executable(Uez1 Pyramide.c
         Summenberechnung.c
         Ungerade.c)
 add_executable(Summenberechnung Summenberechnung.c)
+
+add_executable(Pyramide Pyramide.c)

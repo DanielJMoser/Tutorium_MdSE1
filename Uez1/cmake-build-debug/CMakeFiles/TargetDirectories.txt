@@ -1,4 +1,5 @@
-/home/danielm/Programmieren/MCI/Tut_MdSE1/Uez1/cmake-build-debug/CMakeFiles/Uez1.dir
-/home/danielm/Programmieren/MCI/Tut_MdSE1/Uez1/cmake-build-debug/CMakeFiles/Summenberechnung.dir
-/home/danielm/Programmieren/MCI/Tut_MdSE1/Uez1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/danielm/Programmieren/MCI/Tut_MdSE1/Uez1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/Uez1/cmake-build-debug/CMakeFiles/Uez1.dir
+C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/Uez1/cmake-build-debug/CMakeFiles/Summenberechnung.dir
+C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/Uez1/cmake-build-debug/CMakeFiles/Pyramide.dir
+C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/Uez1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/Uez1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
