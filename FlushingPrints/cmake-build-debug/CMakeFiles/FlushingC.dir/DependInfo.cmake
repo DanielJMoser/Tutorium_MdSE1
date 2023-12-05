@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/FlushingC.c" "CMakeFiles/FlushingC.dir/FlushingC.c.obj" "gcc" "CMakeFiles/FlushingC.dir/FlushingC.c.obj.d"
+  "C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/FlushingC_codeOnly.c" "CMakeFiles/FlushingC.dir/FlushingC_codeOnly.c.obj" "gcc" "CMakeFiles/FlushingC.dir/FlushingC_codeOnly.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

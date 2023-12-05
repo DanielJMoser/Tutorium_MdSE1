@@ -189,6 +189,30 @@ FlushingCPP.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingCPP.dir\build.make CMakeFiles/FlushingCPP.dir/FlushingCPP.cpp.s
 .PHONY : FlushingCPP.cpp.s
 
+FlushingC_codeOnly.obj: FlushingC_codeOnly.c.obj
+.PHONY : FlushingC_codeOnly.obj
+
+# target to build an object file
+FlushingC_codeOnly.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC.dir\build.make CMakeFiles/FlushingC.dir/FlushingC_codeOnly.c.obj
+.PHONY : FlushingC_codeOnly.c.obj
+
+FlushingC_codeOnly.i: FlushingC_codeOnly.c.i
+.PHONY : FlushingC_codeOnly.i
+
+# target to preprocess a source file
+FlushingC_codeOnly.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC.dir\build.make CMakeFiles/FlushingC.dir/FlushingC_codeOnly.c.i
+.PHONY : FlushingC_codeOnly.c.i
+
+FlushingC_codeOnly.s: FlushingC_codeOnly.c.s
+.PHONY : FlushingC_codeOnly.s
+
+# target to generate assembly for a file
+FlushingC_codeOnly.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC.dir\build.make CMakeFiles/FlushingC.dir/FlushingC_codeOnly.c.s
+.PHONY : FlushingC_codeOnly.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -205,6 +229,9 @@ help:
 	@echo ... FlushingCPP.obj
 	@echo ... FlushingCPP.i
 	@echo ... FlushingCPP.s
+	@echo ... FlushingC_codeOnly.obj
+	@echo ... FlushingC_codeOnly.i
+	@echo ... FlushingC_codeOnly.s
 .PHONY : help
 
 

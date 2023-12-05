@@ -82,12 +82,12 @@ clean: CMakeFiles/FlushingCPP.dir/clean
 CMakeFiles/FlushingC.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC.dir\build.make CMakeFiles/FlushingC.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingC.dir\build.make CMakeFiles/FlushingC.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target FlushingC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target FlushingC"
 .PHONY : CMakeFiles/FlushingC.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/FlushingC.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints\cmake-build-debug\CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/FlushingC.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/FlushingC.dir/rule
@@ -108,7 +108,7 @@ CMakeFiles/FlushingC.dir/clean:
 CMakeFiles/FlushingCPP.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingCPP.dir\build.make CMakeFiles/FlushingCPP.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FlushingCPP.dir\build.make CMakeFiles/FlushingCPP.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target FlushingCPP"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\danie\Documents\Programmieren\Tutorium_MdSE1\FlushingPrints\cmake-build-debug\CMakeFiles --progress-num=4,5 "Built target FlushingCPP"
 .PHONY : CMakeFiles/FlushingCPP.dir/all
 
 # Build rule for subdir invocation for target.
