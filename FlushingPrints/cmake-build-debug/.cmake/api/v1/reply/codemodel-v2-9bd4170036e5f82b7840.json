@@ -16,7 +16,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -32,7 +33,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -41,7 +43,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "FlushingC::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-FlushingC-Debug-947b6330f325465795d9.json",
+					"jsonFile" : "target-FlushingC-Debug-5052faa45b1ef38abd90.json",
 					"name" : "FlushingC",
 					"projectIndex" : 0
 				},
@@ -50,6 +52,13 @@
 					"id" : "FlushingCPP::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-FlushingCPP-Debug-fa680d0041af1e6e50da.json",
 					"name" : "FlushingCPP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FlushingC_codeOnly::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FlushingC_codeOnly-Debug-b258df360f300e68c1ee.json",
+					"name" : "FlushingC_codeOnly",
 					"projectIndex" : 0
 				}
 			]
