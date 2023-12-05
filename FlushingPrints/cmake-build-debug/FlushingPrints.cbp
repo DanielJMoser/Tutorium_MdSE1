@@ -132,6 +132,9 @@
 		<Unit filename="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/FlushingCPP.cpp">
 			<Option target="FlushingCPP"/>
 		</Unit>
+		<Unit filename="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/FlushingC_codeOnly.c">
+			<Option target="FlushingC"/>
+		</Unit>
 		<Unit filename="C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/FlushingPrints/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
