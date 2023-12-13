@@ -6,4 +6,5 @@ set(CMAKE_C_STANDARD 23)
 add_executable(Uez1 Pyramide.c
         Summenberechnung.c
         Ungerade.c)
-add_executable(Summenberechnung Summenberechnung.c)
+add_executable(Summenberechnung Summenberechnung.c
+        PotenzVon2.c)

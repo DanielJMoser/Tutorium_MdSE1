@@ -98,6 +98,12 @@ build CMakeFiles/Summenberechnung.dir/Summenberechnung.c.o: C_COMPILER__Summenbe
   OBJECT_DIR = CMakeFiles/Summenberechnung.dir
   OBJECT_FILE_DIR = CMakeFiles/Summenberechnung.dir
 
+build CMakeFiles/Summenberechnung.dir/PotenzVon2.c.o: C_COMPILER__Summenberechnung_unscanned_Debug /home/danielm/Programmieren/MCI/Tut_MdSE1/Uez1/PotenzVon2.c || cmake_object_order_depends_target_Summenberechnung
+  DEP_FILE = CMakeFiles/Summenberechnung.dir/PotenzVon2.c.o.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/Summenberechnung.dir
+  OBJECT_FILE_DIR = CMakeFiles/Summenberechnung.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Summenberechnung
@@ -106,7 +112,7 @@ build CMakeFiles/Summenberechnung.dir/Summenberechnung.c.o: C_COMPILER__Summenbe
 #############################################
 # Link the executable Summenberechnung
 
-build Summenberechnung: C_EXECUTABLE_LINKER__Summenberechnung_Debug CMakeFiles/Summenberechnung.dir/Summenberechnung.c.o
+build Summenberechnung: C_EXECUTABLE_LINKER__Summenberechnung_Debug CMakeFiles/Summenberechnung.dir/Summenberechnung.c.o CMakeFiles/Summenberechnung.dir/PotenzVon2.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Summenberechnung.dir
   POST_BUILD = :

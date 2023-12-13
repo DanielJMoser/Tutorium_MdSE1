@@ -1,8 +1,6 @@
 # ninja log v5
 1	39	1701615403859025682	CMakeFiles/Uez1.dir/Ungerade.c.o	e01dd1dfc756b3ae
+0	36	1701617265294661175	CMakeFiles/Summenberechnung.dir/Summenberechnung.c.o	358b1153bbb65736
 1	35	1701613913497084436	CMakeFiles/Uez1.dir/Summenberechnung.c.o	96aa18f37927c6d8
 0	34	1701613913497084436	CMakeFiles/Uez1.dir/Pyramide.c.o	dcb7089eeace90f4
-0	69	1701616885266771672	CMakeFiles/Summenberechnung.dir/Summenberechnung.c.o	358b1153bbb65736
-69	106	1701616885303441613	Summenberechnung	84ab3d3a722bfcb9
-0	36	1701617265294661175	CMakeFiles/Summenberechnung.dir/Summenberechnung.c.o	358b1153bbb65736
 36	75	1701617265331330693	Summenberechnung	84ab3d3a722bfcb9
