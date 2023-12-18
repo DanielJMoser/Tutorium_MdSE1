@@ -1,5 +1,0 @@
-/home/danielm/Programmieren/MCI/Tut_MdSE1/Uez1_tut/cmake-build-debug/CMakeFiles/Uez1_tut.dir
-/home/danielm/Programmieren/MCI/Tut_MdSE1/Uez1_tut/cmake-build-debug/CMakeFiles/potenz2.dir
-/home/danielm/Programmieren/MCI/Tut_MdSE1/Uez1_tut/cmake-build-debug/CMakeFiles/pyramide.dir
-/home/danielm/Programmieren/MCI/Tut_MdSE1/Uez1_tut/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/danielm/Programmieren/MCI/Tut_MdSE1/Uez1_tut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
