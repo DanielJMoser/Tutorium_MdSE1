@@ -4,14 +4,14 @@
 		"generator" : 
 		{
 			"multiConfig" : false,
-			"name" : "Ninja"
+			"name" : "MinGW Makefiles"
 		},
 		"paths" : 
 		{
-			"cmake" : "/home/danielm/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake",
-			"cpack" : "/home/danielm/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cpack",
-			"ctest" : "/home/danielm/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/ctest",
-			"root" : "/home/danielm/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/share/cmake-3.26"
+			"cmake" : "C:/Users/danie/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/cmake.exe",
+			"cpack" : "C:/Users/danie/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/cpack.exe",
+			"ctest" : "C:/Users/danie/AppData/Local/Programs/CLion/bin/cmake/win/x64/bin/ctest.exe",
+			"root" : "C:/Users/danie/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.26"
 		},
 		"version" : 
 		{
@@ -26,7 +26,11 @@
 	"objects" : 
 	[
 		{
+<<<<<<<< HEAD:Uez1/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-03T16-46-14-0393.json
 			"jsonFile" : "codemodel-v2-ff3bcb0ab137655e8df6.json",
+========
+			"jsonFile" : "codemodel-v2-9bd4170036e5f82b7840.json",
+>>>>>>>> 60fd6e0d68bfcea592a76a1f831041cefdb1a4e0:FlushingPrints/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-05T01-19-38-0368.json
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -35,7 +39,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-4f1322201a2b5885cdcd.json",
+			"jsonFile" : "cache-v2-24e119ea5c2e20cac4d4.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +48,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-30ad9e3abb5ffb105294.json",
+			"jsonFile" : "cmakeFiles-v1-ad583928f323135327ef.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -53,7 +57,7 @@
 			}
 		},
 		{
-			"jsonFile" : "toolchains-v1-d6c77e95d91a665f7a41.json",
+			"jsonFile" : "toolchains-v1-509884a677cee32c355f.json",
 			"kind" : "toolchains",
 			"version" : 
 			{
@@ -66,7 +70,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-4f1322201a2b5885cdcd.json",
+			"jsonFile" : "cache-v2-24e119ea5c2e20cac4d4.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +80,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-30ad9e3abb5ffb105294.json",
+			"jsonFile" : "cmakeFiles-v1-ad583928f323135327ef.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -86,7 +90,11 @@
 		},
 		"codemodel-v2" : 
 		{
+<<<<<<<< HEAD:Uez1/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-03T16-46-14-0393.json
 			"jsonFile" : "codemodel-v2-ff3bcb0ab137655e8df6.json",
+========
+			"jsonFile" : "codemodel-v2-9bd4170036e5f82b7840.json",
+>>>>>>>> 60fd6e0d68bfcea592a76a1f831041cefdb1a4e0:FlushingPrints/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-05T01-19-38-0368.json
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -96,7 +104,7 @@
 		},
 		"toolchains-v1" : 
 		{
-			"jsonFile" : "toolchains-v1-d6c77e95d91a665f7a41.json",
+			"jsonFile" : "toolchains-v1-509884a677cee32c355f.json",
 			"kind" : "toolchains",
 			"version" : 
 			{

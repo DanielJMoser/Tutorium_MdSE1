@@ -1,3 +1,4 @@
+<<<<<<<< HEAD:Uez1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ff3bcb0ab137655e8df6.json
 {
 	"configurations" : 
 	[
@@ -67,3 +68,83 @@
 		"minor" : 5
 	}
 }
+========
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Uez1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Pyramide::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pyramide-Debug-4b15e74a0e6b821202e0.json",
+					"name" : "Pyramide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Summenberechnung::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Summenberechnung-Debug-544100b80e8c757373da.json",
+					"name" : "Summenberechnung",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Uez1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Uez1-Debug-0c1c0cb3f3271f72cba5.json",
+					"name" : "Uez1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/Uez1/cmake-build-debug",
+		"source" : "C:/Users/danie/Documents/Programmieren/Tutorium_MdSE1/Uez1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
+>>>>>>>> 60fd6e0d68bfcea592a76a1f831041cefdb1a4e0:Uez1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-95fa96ad5bbc19caf5ff.json
