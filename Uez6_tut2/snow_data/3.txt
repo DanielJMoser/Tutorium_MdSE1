@@ -1,0 +1,8 @@
+Innsbruck;13
+Kitzbühel;27
+Lienz;33
+Schwaz;19
+Kufstein;25
+Ischgl;25
+St. Anton;7
+Sölden;27
