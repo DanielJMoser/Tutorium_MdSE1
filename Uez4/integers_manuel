@@ -1,0 +1,49 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
+int main() {
+FILE *file = fopen("integers_output.txt", "w");
+if (file == NULL) {
+perror("Fehler beim Öffnen der Datei");
+return 1;
+}
+
+printf("Geben Sie Ihren Text ein:\n");
+char line[1024];
+while (1) {
+fgets(line, sizeof(line), stdin);
+
+if (strcmp(line, "\n") == 0) {
+// Leere Zeile erkannt, Ende der Eingabe
+printf("Ende der Eingabe erreicht\n");
+break;
+}
+
+int length = strlen(line);
+int isNewNumber = 1, firstNumberPrinted = 0;
+
+for (int i = 0; i < length; i++) {
+    if (isdigit(line[i])) {
+        if (isNewNumber) {
+        // Nur ein Leerzeichen einfuegen, falls die erste Zahl schon geprinted wurde
+            if (firstNumberPrinted) {
+                fprintf(file, " ");
+                    }else{
+                        firstNumberPrinted = 1;
+                    }
+                    isNewNumber = 0;
+                }
+            fprintf(file, "%c", line[i]);
+        } else {
+        isNewNumber = 1;
+    }
+}
+
+fprintf(file, "\n"); // Zeilenumbruch in jedem Fall einfuegen
+
+}
+
+fclose(file);
+return 0;
+}
